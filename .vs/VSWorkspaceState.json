@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BaltaStore.Api",
+    "\\BaltaStore.Domain",
+    "\\BaltaStore.Domain\\StoreContext",
+    "\\BaltaStore.Domain\\StoreContext\\Entities",
+    "\\BaltaStore.Domain\\StoreContext\\Enums",
+    "\\BaltaStore.Shared",
+    "\\BaltaStore.Tests"
+  ],
+  "SelectedNode": "\\BaltaStore.Domain\\StoreContext\\Enums\\OrderStatus.cs",
+  "PreviewInSolutionExplorer": false
+}
